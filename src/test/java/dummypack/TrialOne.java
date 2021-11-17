@@ -6,5 +6,6 @@ public class TrialOne {
         System.out.println("hello world!");
         int c=123;
         String name= "bilal";
+        System.out.println(c+name);
     }
 }
